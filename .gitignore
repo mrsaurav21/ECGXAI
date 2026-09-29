@@ -1,0 +1,28 @@
+# Large datasets & models
+dataset/
+datasets/
+*.csv
+*.npy
+*.h5
+*.pth
+*.pt
+data/
+checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Node & Frontend build output
+node_modules/
+dist/
+build/
+.vite/
+
+# IDE files
+.vscode/
+.idea/
